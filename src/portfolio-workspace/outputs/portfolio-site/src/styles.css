@@ -425,7 +425,7 @@ textarea {
     position: relative;
     width: min(100%, 440px);
     margin: 0 auto;
-    margin-left: 12px;
+    margin-left: 50px;
 }
 
 .portrait-glow {
