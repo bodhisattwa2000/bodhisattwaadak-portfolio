@@ -1,0 +1,6 @@
+{
+  "name": "bodhisattwa-adak-portfolio-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"build": "cd outputs/portfolio-site && npm run build"}
+}
